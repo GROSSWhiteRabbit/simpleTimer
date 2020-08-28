@@ -1,4 +1,4 @@
-import {getZero} from '../services/services';
+import {getZero} from '../services/services.js';
 function timer(id, deadline){
 
 
